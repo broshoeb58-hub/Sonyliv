@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <rect x="10" y="25" width="90" height="70" rx="12" fill="#006a4e" />
+  <polygon points="40,40 40,80 75,60" fill="#f42a41" />
+  <text x="120" y="85" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#006a4e">Amar<tspan fill="#f42a41">Bd</tspan></text>
+  <text x="125" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="normal" letter-spacing="4" fill="#333333">IPTV SERVICE</text>
+</svg>
